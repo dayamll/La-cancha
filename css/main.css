@@ -1,0 +1,81 @@
+body{
+    background: url(../assets/image/sweet.png)
+}
+h1 {
+    text-align: center;
+    color: white;
+   
+}
+
+.cancha{
+    background-color: darkseagreen;
+    height: 300px;
+    width: 600px;
+    margin: 0 auto;
+
+}
+.cuadrado{
+    border:4px solid white ;
+    height:260px;
+    width:560px;
+    /*margin-top:200px;
+    margin-right:25px;
+    margin-left:25px;
+    margin-bottom:25px;*/
+    position: relative;
+    top: 1em;
+    left: 1em;
+   
+}
+.circle{
+    border-radius: 80px;
+    border: 4px solid white;
+    position: relative;
+    height: 120px;
+    width: 120px;
+    top: -11.5em;
+    left: 15em;
+}
+.arcos1{
+    border:4px solid white;
+    position: relative;
+    height: 120px;
+    width: 70px;
+    top: -19.5em;
+    left: 1em;
+}
+.arcos2{
+    border:4px solid white;
+    position: relative;
+    height: 120px;
+    width: 70px;
+    top: -27.5em;
+    right: -31.6em;
+}
+.balon1{
+    border-radius: 80px;
+    border: 10px solid white;
+    position: relative;
+    height: 0px;
+    width: 0px;
+    top: -38em;
+    left: 20em;
+}
+.balon2{
+    border-radius: 80px;
+    border: 10px solid white;
+    position: relative;
+    height: 0px;
+    width: 0px;
+    top: -36.3em;
+    left: 5em;
+}
+.balon3{
+    border-radius: 80px;
+    border: 10px solid white;
+    position: relative;
+    height: 0px;
+    width: 0px;
+    top: -31.8em;
+    right: -30em;
+}
